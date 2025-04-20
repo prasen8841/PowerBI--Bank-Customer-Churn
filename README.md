@@ -75,3 +75,12 @@
 ## Conclusion
 The churn analysis reveals critical customer behavior patterns, highlighting that high churn is not always due to obvious factors like inactivity or low credit scores alone. Even engaged, credit-holding, and active customers are still leaving — signaling deeper dissatisfaction.Strategic actions should go beyond surface-level fixes and focus on personalization, product engagement, and segment-specific interventions.By focusing on cross-selling, targeted engagement, and region- and gender-specific strategies, the bank can significantly improve customer retention and lifetime value.
 
+---
+
+## 📬 Contact
+
+For feedback or collaborations: **[Prasenjit Saha/ prasenjit8841@gmail.com 
+[LinkedIn]:(https://www.linkedin.com/in/prasenjitsaha8841/)]**
+
+---
+
