@@ -77,6 +77,21 @@ The churn analysis reveals critical customer behavior patterns, highlighting tha
 
 ---
 
+## 📁 Getting Started
+
+1. Download the `.pbix` file from this repository.
+2. Open it in Power BI Desktop.
+3. If necessary, update the data source path.
+
+---
+
+## 📊 Data Source
+
+- Synthetic HR dataset downloaded from Maven Analytics (safe for public use).
+- All personal data anonymized.
+
+---
+
 ## 📬 Contact
 
 For feedback or collaborations: **[Prasenjit Saha/ prasenjit8841@gmail.com 
