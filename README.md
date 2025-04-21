@@ -87,7 +87,7 @@ The churn analysis reveals critical customer behavior patterns, highlighting tha
 
 ## 📊 Data Source
 
-- Synthetic HR dataset downloaded from Maven Analytics (safe for public use).
+- Synthetic Bank Customer dataset downloaded from Maven Analytics (safe for public use).
 - All personal data anonymized.
 
 ---
